@@ -1,0 +1,5 @@
+{
+    "copy": [
+        ["/gm.setup", "/modules/gm/gm.setup"]
+    ]
+}
