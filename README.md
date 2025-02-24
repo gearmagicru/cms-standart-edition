@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/gearmagicru/cms-standart-edition/blob/master/readme/box.jpg?raw=true"  alt="Веб-приложение «GearMagic: Управление сайтом»" /></p>
+<p align="center"><img src="https://github.com/gearmagicru/cms-standart-edition/blob/main/readme/box.jpg?raw=true"  alt="Веб-приложение «GearMagic: Управление сайтом»" /></p>
 
 # GM CMS: Редакция «Стандарт»
 
@@ -168,22 +168,22 @@ _плагины модуля:_
 
 ## Скриншоты
 - _Разделы Панели управления_
-<img src="https://github.com/gearmagicru/cms-standart-edition/blob/master/readme/screenshot-1.jpg?raw=true" width="100%">
+<img src="https://github.com/gearmagicru/cms-standart-edition/blob/main/readme/screenshot-1.jpg?raw=true" width="100%">
 
 - _Справочники Панели управления_
-<img src="https://github.com/gearmagicru/cms-standart-edition/blob/master/readme/screenshot-2.jpg?raw=true" width="100%">
+<img src="https://github.com/gearmagicru/cms-standart-edition/blob/main/readme/screenshot-2.jpg?raw=true" width="100%">
 
 - _Роли и права доступа пользователей_
-<img src="https://github.com/gearmagicru/cms-standart-edition/blob/master/readme/screenshot-3.jpg?raw=true" width="100%">
+<img src="https://github.com/gearmagicru/cms-standart-edition/blob/main/readme/screenshot-3.jpg?raw=true" width="100%">
 
 - _Установка прав доступа для роли "Супер администратор"_
-<img src="https://github.com/gearmagicru/cms-standart-edition/blob/master/readme/screenshot-4.jpg?raw=true" width="100%">
+<img src="https://github.com/gearmagicru/cms-standart-edition/blob/main/readme/screenshot-4.jpg?raw=true" width="100%">
 
 - _Панель инструментов отладчика_
-<img src="https://github.com/gearmagicru/cms-standart-edition/blob/master/readme/screenshot-5.jpg?raw=true" width="100%">
+<img src="https://github.com/gearmagicru/cms-standart-edition/blob/main/readme/screenshot-5.jpg?raw=true" width="100%">
 
 - _Файловый менеджер Панели управления_
-<img src="https://github.com/gearmagicru/cms-standart-edition/blob/master/readme/screenshot-6.jpg?raw=true" width="100%">
+<img src="https://github.com/gearmagicru/cms-standart-edition/blob/main/readme/screenshot-6.jpg?raw=true" width="100%">
 
 ## Как получить рабочую установку из исходников
 Вам понадобится:
