@@ -1,0 +1,7 @@
+# Игнорировать некоторые метафайлы при создании архива этого репозитория
+/.github        export-ignore
+/.gitattributes export-ignore
+/.gitignore     export-ignore
+/.editorconfig  export-ignore
+/readme/        export-ignore
+.gitkeep        export-ignore
