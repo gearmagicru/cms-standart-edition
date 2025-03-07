@@ -29,20 +29,8 @@ return [
       '{{module_permissions}}' => require('demo/module_permissions.php'),
       // права доступа к расширениям модулей
       '{{extension_permissions}}' => require('demo/extension_permissions.php'),
-  // типы материалов
-  '{{reference_articles}}' => require('demo/reference_articles.php'),
-  // материалы сайта
-  '{{article}}' => require('demo/article.php'),
-      // категории материала сайта
-      '{{article_category}}' => require('demo/article_category.php'),
-  // метки материала
-  '{{tag}}' => require('demo/tag.php'),
   // пользователи
   '{{user}}' => require('demo/user.php'),
       // профили пользователей
-      '{{user_profile}}' => require('demo/user_profile.php'),
-    // меню сайта
-    '{{menu}}' => require('demo/menu.php'),
-        // пункты меню сайта
-        '{{menu_items}}' => require('demo/menu_items.php')
+      '{{user_profile}}' => require('demo/user_profile.php')
 ];
