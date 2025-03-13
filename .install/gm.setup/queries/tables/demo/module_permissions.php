@@ -91,6 +91,11 @@ return [
         'permissions' => 'any'
     ],
     [
+        'module_id'   => $modules['gm.be.mediafiles'],
+        'role_id'     => $roles['editor'],
+        'permissions' => 'any'
+    ],
+    [
         'module_id'   => $modules['gm.be.media_gallery'],
         'role_id'     => $roles['editor'],
         'permissions' => 'any'
