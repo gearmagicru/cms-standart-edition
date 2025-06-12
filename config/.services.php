@@ -168,6 +168,9 @@ return [
     /** Cлужба "Менеджер пакетов обновлений" */
     'updates' => '\Gm\Updates\PackageManager',
 
+    /** Cлужба "Мультисайт" */
+    'multiSite' => '\Gm\MultiSite\MultiSite',
+
     /** Cлужба "Менеджер шорткодов" */
     'shortcodes' => [
         'class'  => '\Gm\Shortcode\ShortcodeManager',
