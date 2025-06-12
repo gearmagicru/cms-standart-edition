@@ -21,6 +21,10 @@ return [
         'gm.be.tags',
         'gm.fe.tags'
     ],
+    // идентфикаторы расширений модулей
+    'extensions' => [
+        'gm.be.config.multisite'
+    ],
     // идентфикаторы виджетов
     'widgets' => [
         'gm.wd.menu',
