@@ -56,6 +56,7 @@ _расширения модуля:_
 * <img src="https://github.com/gearmagicru/gm-be-config-cache/blob/master/assets/images/icon_small.svg"> Конфигурация **"Кэш"** ([gm-be-config-cache](https://github.com/gearmagicru/gm-be-config-cache))
 * <img src="https://github.com/gearmagicru/gm-be-config-autorun/blob/master/assets/images/icon_small.svg"> Конфигурация **"Автозапуск"** ([gm-be-config-autorun](https://github.com/gearmagicru/gm-be-config-autorun))
 * <img src="https://github.com/gearmagicru/gm-be-config-audit/blob/master/assets/images/icon_small.svg"> Конфигурация **"Настройка аудита"** ([gm-be-config-audit](https://github.com/gearmagicru/gm-be-config-audit))
+* <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-config-multisite/refs/heads/main/assets/images/icon_small.svg"> Конфигурация **"Сайты"** ([gm-be-config-multisite](https://github.com/gearmagicru/gm-be-config-multisite))
 
 <img src="https://github.com/gearmagicru/gm-be-mp/blob/master/assets/images/icon_small.svg"> Модуль **"Маркетплейс приложений"** ([gm-be-mp](https://github.com/gearmagicru/gm-be-mp))
 
