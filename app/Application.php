@@ -43,6 +43,6 @@ class Application extends \Gm\Mvc\Application
             }
             return;
         }
-        throw new Exception\PageNotFoundException();
+        throw new Exception\PageUnavailableException();
     }
 }
