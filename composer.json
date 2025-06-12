@@ -53,6 +53,7 @@
             "gearmagicru/gm-be-config-cache": "*",
             "gearmagicru/gm-be-config-autorun": "*",
             "gearmagicru/gm-be-config-audit": "*",
+            "gearmagicru/gm-be-config-multisite": "*",
         "gearmagicru/gm-be-mp": "*",
             "gearmagicru/gm-be-mp-desk": "*",
             "gearmagicru/gm-be-mp-catalog": "*",
