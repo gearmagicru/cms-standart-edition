@@ -35,12 +35,12 @@ class Version extends \Gm\Version\AppVersion
     /**
      * {@inheritdoc}
      */
-    public string $number = '1.0';
+    public string $number = '1.0.1';
 
     /**
      * {@inheritdoc}
      */
-    public string $date = '01/01/2025';
+    public string $date = '12/06/2025';
 
     /**
      * {@inheritdoc}
