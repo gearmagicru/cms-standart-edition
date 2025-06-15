@@ -207,9 +207,9 @@ return [
         'code'         => 'GM CMS:STD',
         'name'         => 'Standart',
         'originalName' => 'Стандарт',
-        'number'       => '1.0',
+        'number'       => '1.0.1',
         'resource'     => 'https://apps.gearmagic.ru/cms',
         'docsResource' => 'https://docs.gearmagic.ru/cms-std/1.x',
-        'date'         => '01/01/2025'
+        'date'         => '12/06/2025'
     ]
 ];
